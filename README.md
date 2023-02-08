@@ -1,6 +1,9 @@
 # SAL603 Final Project
-Research Question
-    three visualizations
-    Document where your data came from. 
-        All cleaning and transformations must be done within your Python script
-    Must record your presentation and post online (YouTube or Zoom Recording)
+form a research question
+
+create three visualizations
+
+document where your data came from. 
+    all cleaning/transformations must be done within Python script
+
+record presentation and post online (YouTube or Zoom Recording)
