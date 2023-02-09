@@ -1,5 +1,3 @@
-SAL603 Final Project
+#Do NHL Players Peak at a Certain Age?
 
-What Stats Influence if a Team will Make the Playoffs?
-
-Predicting season outcomes
+Analyzing player performace over time to determine if there's a peak in ability at a given age
