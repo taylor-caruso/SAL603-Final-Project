@@ -1,3 +1,3 @@
-#Do NHL Players Peak at a Certain Age?
+#Predicting NHL Team Playoff Appearances
 
-Analyzing player performace over time to determine if there's a peak in ability at a certain age
+Creating a logistic regression model to predict if an NHL team will make it to the playoffs in a given season
